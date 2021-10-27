@@ -15,7 +15,7 @@
 
 ### 2. bert_다중분류.ipynb에 total_dataset.csv파일 경로 지정해주고 파일 실행 
  - 등급 기준은 A+, A, B+, B, C, D 총 5가지 등급으로 분류하였고 등급 분류 기준은 한국기업지배구조원의 등급 조회를 참고하였습니다(http://www.cgs.or.kr/business/esg_tab04.jsp)
- - bert 모델은 https://velog.io/@seolini43 의 '[파이썬]KoBERT로 다중 분류 모델 만들기 - 코드'를 참고하였습니다. 
+ - 모델은 https://velog.io/@seolini43 의 '[파이썬]KoBERT로 다중 분류 모델 만들기 - 코드'를 참고하였습니다. 
 
 ## 토픽모델링 
  - 해외 지속가능경영보고서와 국내 지속가능경영보고서를 비교 
